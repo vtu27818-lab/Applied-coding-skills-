@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
