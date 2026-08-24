@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
