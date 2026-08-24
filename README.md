@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vtu27818-lab/Applied-coding-skills-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
